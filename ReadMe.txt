@@ -7,7 +7,7 @@ Tools Used:
     LucidChart - Creating the ER Diagram
     Sqlite3 & DB Browser for SQLite - Creating the DB and writing/processing queries
 
-Contribution:
+Contributions:
 Bishal Giri - Creating the ER Diagram
 Subash Bhusal - 
 Mubtasim Ahmed Rakheen - Creating the DB and writing/processing queries
